@@ -9,3 +9,7 @@ The data for this workshop is a combination of Medicaid expansion data and Ameri
 ## Code
 
 There are two code files in this repository: *collect-workshop.do* and *collect-workshop-cleaning.do*. The former contains code creating a balance table and a regression table and exporting it to *.tex*. I walked students through the code line-by-line during the workshop. The cleaning file has code to create new covariates in the ACS data, collapse it to the state x year level, and merge with the Medicaid expansion data.
+
+## Tables
+
+The table output can be viewed in *tables.pdf* or in the *.tex* files.
